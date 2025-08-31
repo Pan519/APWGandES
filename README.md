@@ -641,4 +641,4 @@ AI/
 
 本项目基于 Alan Global Copyright Protection Agreement (AGCPA v3.0) 开源协议进行授权。© 2024-2025 Alan. 全球保留所有权利。
 
-详细协议内容请参阅 [AGCPA v3.0.md](https://github.com/Pan519/arxiv-daily/blob/main/AGCPA v3.0.md) 文件或访问官方链接了解详细信息：https://ima.qq.com/note/share?shareId=_AseMbuM8w6eLpIXZlZgMg
+详细协议内容请参阅 [AGCPA v3.0.md](https://ima.qq.com/note/share?shareId=_AseMbuM8w6eLpIXZlZgMg) 文件或访问官方链接了解详细信息：https://ima.qq.com/note/share?shareId=_AseMbuM8w6eLpIXZlZgMg
